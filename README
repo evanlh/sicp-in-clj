@@ -1,0 +1,9 @@
+# sicp-in-clj
+
+Code from Structure and Interpretation of Computer Programs converted to Clojure, along with my exercise solutions.
+
+## License
+
+Copyright (C) 2012 Evan Lawrence-Hurt
+
+Distributed under the Eclipse Public License, the same as Clojure.
